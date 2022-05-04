@@ -1,10 +1,9 @@
-# formulario
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">  
-    <link href="meu css.css">                                                                                                                                                                                                                
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <link href="meu css.css">
     <title>formulário</title>
 </head>
 <body>
@@ -21,7 +20,7 @@
                         <td>
                             <label for="Nome">nome completo:</label>
                             <td><input type="text" name="nome completo" id="nome completo"
-                            placeholder="José Maria"></td>
+                            placeholder="Natalia Alves Bernardo"></td>
                         </td>
                     </tr>
                 </table>
@@ -45,8 +44,8 @@
                 <input type="radio" name="devweb" value="backend">masculino
             </label>
         <div>
-            <label>Ocupação:</label>
-                 <input type="text" name="Ocupação:" id="Ocupação:">
+            <label>cargo:</label>
+                 <input type="text" name="cargo:" id="cargo:">
         </div>
         <div>
             <label>data de nascimento:</label>
@@ -57,8 +56,6 @@
         <div>
             <label>telefone:</label>
             <label><input type="text" name="telefone" id="telefone"></label>
-            <label>Celular:</label>
-            <label><input type="text" name="Celular" id="Celular"></label>
         </div>
         </fieldset>
         <div>
@@ -75,7 +72,7 @@
             <label><input type="text" name="Endereço completo" id="Endereço completo"></label>
         </div>
         <div>
-            <label>Cidade:</label> 
+            <label>Cidade:</label>
             <label><input type="text" name="Cidade" id="Cidade"></label>
         </div>
         <div>
